@@ -1,0 +1,5 @@
+{
+  "name": "PeakToPlate BC",
+  "description": "A web application to discover local BC farms and purchase fresh produce, meats, and artisan goods.",
+  "requestFramePermissions": []
+}
