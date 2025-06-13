@@ -100,7 +100,7 @@ const mockSubscriptionOptionsFarm1: SubscriptionOption[] = [
 export const MOCK_FARMS: Farm[] = [
   {
     id: 'f1',
-    name: 'Rafael lopes',
+    name: 'Karina Correa',
     tagline: 'Organic Veggies & Pastured Eggs',
     location: 'Chilliwack, BC',
     distance: '12 km away',
